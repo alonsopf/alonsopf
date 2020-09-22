@@ -9,7 +9,7 @@
 - ⚙️ I use daily: `.go`, `.js`, `.swift`, `.php`, `.html`, `.css`, `.proto`, `.tpl`, `.json`, `.yaml`, `.sql`
 - 🌍 I have fun in my free time in: <a href="https://leetcode.com/alonsopf/" target="_blank"> **LeetCode** </a>
 - 🌱 Learning more about and studying: **Open Source, gRPC, Docker, Kubernetes**
-- 💬 Ping me about: **golang backend**, **web design**, **iOS apps**, **mentorship**, **LeetCode**
+- 💬 Ping me about: **golang backend**, **web design**, **iOS apps**, **plant frutal trees**, **LeetCode**
 - 📫 Reach me asap: <a href="https://api.whatsapp.com/send?phone=528261010120&amp;text=Hello&amp;source=&amp;data=&amp;app_absent=" target="_blank"><span>Whatsapp:</span></a> or alonsopf@gmail.com
 - 🌟Interests: environmental care, cryptocurrency enthusiast, foodie, algorithms
 - 😄 Passionate about accessibility and committed to a web that works for everyone
